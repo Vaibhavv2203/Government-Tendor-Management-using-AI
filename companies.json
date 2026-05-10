@@ -1,0 +1,135 @@
+[
+  {
+    "name": "BuildRight Construction",
+    "type": "Private",
+    "industry": "Construction",
+    "geographical_focus": "Valencia, Seville",
+    "services": [
+      "road construction",
+      "infrastructure",
+      "heavy machinery",
+      "project management"
+    ],
+    "keywords": [
+      "Road infrastructure Spain",
+      "Highway construction",
+      "Urban development",
+      "Public works contractor",
+      "Heavy machinery Spain",
+      "Civil engineering projects",
+      "Construction project management"
+    ],
+    "added_date": "2025-06-06T10:28:08.475884"
+  },
+  {
+    "name": "TechSurveying Co.",
+    "type": "Private",
+    "industry": "Engineering",
+    "geographical_focus": "Valencia",
+    "services": [
+      "land surveying",
+      "drone mapping",
+      "3D modeling",
+      "topographical surveys"
+    ],
+    "keywords": [
+      "Drone surveying Spain",
+      "Land measurement services",
+      "3D modeling for construction",
+      "Topographic surveyors",
+      "GIS mapping",
+      "Engineering surveys",
+      "Civil planning tools"
+    ],
+    "added_date": "2025-06-06T10:29:41.775474"
+  },
+  {
+    "name": "EcoConsult Environmental",
+    "type": "Private",
+    "industry": "Environmental",
+    "geographical_focus": "Madrid",
+    "services": [
+      "environmental assessment",
+      "compliance",
+      "monitoring",
+      "reporting"
+    ],
+    "keywords": [
+      "Environmental impact assessments Spain",
+      "Sustainability consulting",
+      "Regulatory compliance",
+      "Construction environmental services",
+      "Biodiversity monitoring",
+      "Environmental permitting",
+      "Site assessments"
+    ],
+    "added_date": "2025-06-06T10:31:19.163058"
+  },
+  {
+    "name": "LogiFlow Transportation",
+    "type": "Private",
+    "industry": "Logistics",
+    "geographical_focus": "Madrid",
+    "services": [
+      "equipment transport",
+      "logistics",
+      "supply chain",
+      "heavy haul"
+    ],
+    "keywords": [
+      "Construction logistics Spain",
+      "Equipment haulage",
+      "Heavy transport services",
+      "Supply chain Spain",
+      "Crane and oversized cargo",
+      "On-site delivery logistics",
+      "Infrastructure project support"
+    ],
+    "added_date": "2025-06-06T10:32:54.175217"
+  },
+  {
+    "name": "SafetyFirst Consulting",
+    "type": "Private",
+    "industry": "Safety",
+    "geographical_focus": "Madrid",
+    "services": [
+      "safety training",
+      "compliance",
+      "risk assessment",
+      "safety equipment"
+    ],
+    "keywords": [
+      "Workplace safety Spain",
+      "OSHA Spain equivalent (INSST)",
+      "Risk management construction",
+      "Safety compliance services",
+      "Protective equipment advisory",
+      "Health & Safety (H&S) training Spain",
+      "Site audits"
+    ],
+    "added_date": "2025-06-06T10:33:57.863553"
+  },
+  {
+    "name": "VideoTech Solutions",
+    "type": "Private",
+    "industry": "Media & Production",
+    "geographical_focus": "Barcelona",
+    "services": [
+      "video production",
+      "photography",
+      "editing",
+      "drone services",
+      "aerial videography"
+    ],
+    "keywords": [
+      "Drone videography",
+      "Event Documentation",
+      "Aerial Footage",
+      "Professional photography",
+      "Corporate video production",
+      "Wedding films Spain",
+      "Post-production Services"
+    ],
+    "added_date": "2025-06-06T11:16:46.811556"
+  }
+]
